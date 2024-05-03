@@ -1,4 +1,4 @@
-const main = document.querySelector("main")
+const main = document.querySelector("#section__001")
 const btnClear = document.querySelector("#btn-clear")
 
 btnClear.addEventListener('click', clearMain)
